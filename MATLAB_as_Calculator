@@ -1,0 +1,83 @@
+10^8
+
+ans =
+
+   100000000
+
+speed_kps=3*10^8
+
+speed_kps =
+
+   300000000
+
+year*sec=365*24*60*60
+ year*sec=365*24*60*60
+         ↑
+{Incorrect use of '=' operator. Assign a value to a variable using
+'=' and compare values for equality using '=='.
+} 
+year_sec=365*24*60*60
+
+year_sec =
+
+    31536000
+
+lightyr=year_sec* speed_kps
+
+lightyr =
+
+   9.4608e+15
+
+9.4608*10^15
+
+ans =
+
+   9.4608e+15
+
+p=1000
+
+p =
+
+        1000
+
+t=2
+
+t =
+
+     2
+
+r=10
+
+r =
+
+    10
+
+for i=1:1:2
+    disp(i)
+end
+     1
+
+     2
+
+practice_rough
+
+p =
+
+        1000
+
+
+t =
+
+     2
+
+
+r =
+
+    10
+
+     1
+
+     2
+
+clc
+quit
